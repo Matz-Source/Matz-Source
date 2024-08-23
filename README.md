@@ -6,7 +6,9 @@ Email: matheus.freitas.santos138@gmai.com
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnAfMxO9B1QGu-QHAv5m0dA)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-56b94824b/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Maz1308&show_icons=true&theme=radical)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matz1308&show_icons=true&theme=radical)
+
+![Matheus Status Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=Matz1308&layout=compact)
 
 
 ### Tecnologias que eu uso no meu dia a dia
