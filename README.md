@@ -36,4 +36,4 @@ Email: matheus.freitas.santos138@gmail.com
 
 ## 🐍 Snake Animation
 
-![Snake animation](https://github.com/Matz-Source/Matz-Source/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Matz-Source/Matz-Source/output/snake.svg)
