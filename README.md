@@ -15,7 +15,7 @@ Email: matheus.freitas.santos138@gmail.com
 
 # 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical"/>
+[<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical"/>](https://github-readme-stats-sigma-five.vercel.app/api?username=Matz-Source)
 
 ## 📈 Linguagens mais usadas
 
