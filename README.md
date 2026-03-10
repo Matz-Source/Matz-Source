@@ -1,14 +1,30 @@
-### Olá! eu sou o Matheus De Freitas Santos ✌️
+### 👋 Olá, eu sou o Matheus
 
-Email: matheus.freitas.santos138@gmai.com
+💻 Programador em formação  
+🎓 Estudante de faculdade na área de tecnologia  
+🚀 Interessado em desenvolvimento de software, backend e projetos freelancer
+
+
+Email: matheus.freitas.santos138@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheusz1308/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnAfMxO9B1QGu-QHAv5m0dA)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-56b94824b/)
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical)
+## 📊 Estatísticas do GitHub
 
-![Matheus Status Bar](https://github-readme-stats.vercel.app/api/top-langs/?username=Matz-Source&layout=compact)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical)
+
+## 📈 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Matz-Source&layout=compact&theme=radical)
+
+## 🔥 Streak de commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Matz-Source&theme=radical)
+
+
+ Sempre buscando aprender mais sobre programação e desenvolvimento de software.
 
 
 ### Tecnologias que eu uso no meu dia a dia
