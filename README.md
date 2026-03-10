@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff2e63&size=30&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+GitHub;Desenvolvedor+em+formação;Sempre+aprendendo+algo+novo)
+
 ### 👋 Olá, eu sou o Matheus
 
 💻 Programador em formação  
@@ -11,9 +13,13 @@ Email: matheus.freitas.santos138@gmail.com
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnAfMxO9B1QGu-QHAv5m0dA)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-56b94824b/)
 
-## 📊 Estatísticas do GitHub
+# 📊 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Matz-Source&layout=compact&theme=radical"/>
 
 ## 📈 Linguagens mais usadas
 
