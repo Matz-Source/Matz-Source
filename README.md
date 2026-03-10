@@ -33,3 +33,7 @@ Email: matheus.freitas.santos138@gmail.com
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css,python,mysql" />
 </p>
+
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/Matz-Source/Matz-Source/blob/output/github-contribution-grid-snake-dark.svg)
