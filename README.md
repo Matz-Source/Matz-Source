@@ -16,11 +16,10 @@ Email: matheus.freitas.santos138@gmail.com
 # 📊 Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matz-Source&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matz-Source&layout=compact&theme=radical"/>
 
 ## 📈 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Matz-Source&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matz-Source&layout=compact&theme=radical"/>
 
 ## 🔥 Streak de commits
 
